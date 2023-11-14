@@ -93,7 +93,7 @@ func routes(_ app: Application) throws {
                     <h2>About Me</h2>
                     <p>
           
-          Hey there! I'm a fresh-faced iOS Developer by day, and a Frontend Developer by twilight. I Crafted this Website With  Swift and a sprinkle of Vapor magic, this website is my digital playground. It's not dressed in fancy code lace, but it's got character (and a few quirky bugs for good measure). Dive in, explore, and enjoy my code-scape. Remember, in the world of 127.0.0.1, every bug is a feature waiting to be discovered!".<h2>&#128513;</h2> <h2> &#128187;</h2> <h2>&#128640;</h2>
+          Hey there! I'm a fresh-faced iOS Developer by day, and a Frontend Developer by twilight. I Crafted this Website With  Swift and a sprinkle of Vapor magic, this website is my digital playground. It's not dressed in fancy code lace, but it's got character (and a few quirky bugs for good measure). Dive in, explore, and enjoy my code-scape. Remember, in the world of 127.0.0.1, every bug is a feature waiting to be discovered!".<h2>&#128513 &#128187 &#128640;</h2>
         </p>
                 </section>
             </div>
